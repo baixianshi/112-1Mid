@@ -3218,4 +3218,10 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
+			input[type="text"]:hover,
+input[type="email"]:hover,
+textarea:hover {
+    background-color: #3eb08f;
+}
+
 	}
